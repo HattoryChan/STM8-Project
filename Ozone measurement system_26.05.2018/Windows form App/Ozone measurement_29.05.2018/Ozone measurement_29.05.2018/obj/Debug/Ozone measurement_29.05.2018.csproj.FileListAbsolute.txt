@@ -1,0 +1,10 @@
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone measurement_29.05.2018.csprojResolveAssemblyReference.cache
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone_measurement_29._05._2018.Form1.resources
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone_measurement_29._05._2018.Properties.Resources.resources
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone measurement_29.05.2018.csproj.GenerateResource.Cache
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone measurement_29.05.2018.csproj.CoreCompileInputs.cache
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\bin\Debug\Ozone measurement_29.05.2018.exe.config
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\bin\Debug\Ozone measurement_29.05.2018.exe
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\bin\Debug\Ozone measurement_29.05.2018.pdb
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone measurement_29.05.2018.exe
+D:\Google Диск\IAR(STM8)Project\Ozone measurement system_26.05.2018\Windows form App\Ozone measurement_29.05.2018\Ozone measurement_29.05.2018\obj\Debug\Ozone measurement_29.05.2018.pdb
